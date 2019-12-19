@@ -1,0 +1,31 @@
+.kiki{
+    color: black;
+    background-color: rgba(247, 220, 162, 0.603);
+    width: 80%;
+    padding: 50px 80px;
+    font-family: helvetica;
+    font-size: 10px;
+    margin: auto;
+}
+.footer{
+    font-family: auto;
+    margin: auto;
+    text-align: center;
+    font-size: px;
+    color: rgb(229, 197, 160)
+}
+body{
+    margin: auto;
+    background-image: url(lllla.jpeg);
+    width: 80%;
+    padding: 40px;
+}
+h1{
+    font-family: sans-serif;
+    margin: auto;
+    text-align: center;
+    font-size: 30px;
+}
+.li{
+    font-size: 30px;
+}

@@ -1,0 +1,82 @@
+.navbar{
+    width : 100%;
+    background-color: rgba(209, 179, 141, 0.863);
+    padding: 25px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    background-color : rgba(209, 179, 141, 0.863);
+}
+span{
+    font-size: 30px;
+}
+li{
+    font-size: 20px;
+    color: white;
+}
+body{
+    margin: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(lllla.jpeg);
+
+  
+}
+.nav-body{
+    width : 80%;
+    margin : auto;
+    color: white;
+}
+.nav-body ul {
+    margin: 0;
+    padding: 0;
+    float: right;    
+}
+.nav-body li {
+    display: inline;
+    padding: 5px;
+    float: right;
+    color: white;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    font-size: 40px;
+    cursor: pointer;
+    color : black;
+}
+h3{
+    font-family: initial;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+    color : white;
+    background: rgba(209, 179, 141, 0.863);
+    width: 150px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+    padding-top: 10px;
+    margin: auto;
+    margin-top: 10px;
+}
+.Content-background
+text-align: center;
+width: 90%;
+margin: 10px 45px;
+padding: 130px 20px;
+h3:hover{
+    background: rgba(209, 179, 141, 0.863);
+}
+/* FOOTER */
+.Footer{
+    width: 90%;
+    margin: 10px 45px;
+    text-align: center;
+    padding: 500px 0px;
+    font-size: 5px;
+    padding bottom: 10px
+    
